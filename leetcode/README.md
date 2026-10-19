@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
