@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
