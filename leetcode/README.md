@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -52,8 +53,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
