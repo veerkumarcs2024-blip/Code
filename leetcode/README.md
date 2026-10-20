@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0001-two-sum) |
 | [0027-remove-element](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0027-remove-element) |
 | [0048-rotate-image](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0118-pascals-triangle) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
