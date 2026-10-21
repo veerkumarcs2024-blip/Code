@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0119-pascals-triangle-ii) |
 | [0498-diagonal-traverse](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0777-toeplitz-matrix) |
+| [1539-diagonal-traverse-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1539-diagonal-traverse-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1791-richest-customer-wealth) |
 ## Matrix
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [1539-diagonal-traverse-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1539-diagonal-traverse-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1539-diagonal-traverse-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1539-diagonal-traverse-ii) |
 <!---LeetCode Topics End-->
