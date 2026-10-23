@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/smallest-greater-elements-in-whole-array2751/1">Smallest Greater in Whole Array</a></h2><h3>Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 14pt;">Given an array <strong>arr[]</strong>, for each element, find the smallest element in the array that is strictly greater than it. If no such element exists, return -10000000 for that position. Return the resulting array.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input :</strong> arr[] = [13, 6, 7, 12]
+<strong>Output :</strong> -10000000 7 12 13 <br><strong>Explanation: </strong>Here, at index 0, 13 is the greatest value in given array and no other array element is greater from 13. So at index 0 we fill '-10000000'.
+</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input :</strong> arr[] = [6, 3, 9, 8, 10, 2, 1, 15, 7]<strong>
+Output :</strong>  7 6 10 9 15 3 2 -10000000 8<br><strong>Explanation:</strong> Here, at index 7, 15 is the greatest value in given array and no other array element is greater from 15. So at index 7 we fill '-10000000'.</span>
+</pre></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Zoho</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Searching</code>&nbsp;<code>Sorting</code>&nbsp;<code>CPP</code>&nbsp;<code>STL</code>&nbsp;
