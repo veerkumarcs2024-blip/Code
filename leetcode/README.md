@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0179-largest-number) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0777-toeplitz-matrix) |
 | [1539-diagonal-traverse-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1539-diagonal-traverse-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0500-keyboard-row) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0179-largest-number) |
 | [0443-string-compression](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0500-keyboard-row) |
 | [1651-shuffle-string](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1651-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1960-check-if-the-sentence-is-pangram) |
 | [2365-percentage-of-letter-in-string](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/2365-percentage-of-letter-in-string) |
