@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0027-remove-element) |
 | [0048-rotate-image](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0048-rotate-image) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0027-remove-element) |
 | [0075-sort-colors](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0075-sort-colors) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0075-sort-colors) |
 | [0179-largest-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0179-largest-number) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
