@@ -1,0 +1,10 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/distinct-palindromic-substrings5141/1">Distinct palindromic substrings</a></h2><h3>Difficulty: Hard</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;"><span style="font-size: 18px;">Given a string </span><strong style="font-size: 18px;">s</strong><span style="font-size: 18px;"> of lowercase English letters. The task is to find all the&nbsp;</span><strong style="font-size: 18px;">distinct </strong><span style="font-size: 18px;">continuous </span><strong style="font-size: 18px;">palindromic sub-strings</strong><span style="font-size: 18px;"> which are present in the string </span><strong style="font-size: 18px;">s</strong><span style="font-size: 18px;">.</span></span></p>
+<p><span style="font-size: 18px;"><span style="font-size: 18px;"><strong>Note:</strong> You can return the Palindromic sub-strings in any order but the driver code will print the result in <strong>sorted</strong> order.</span></span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> s = "abaaa"
+<strong>Output:</strong> ["a", "aa", "aaa", "aba", "b"]
+<strong>Explanation:</strong> All 5 distinct continuous palindromic sub-strings are listed above.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>s = "geek"
+<strong>Output:</strong> ["e", "ee", "g", "k"]
+<strong>Explanation:</strong> All 4 distinct continuous palindromic sub-strings are listed above.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints</strong>:<br>1 ≤ s.length() ≤ 10<sup>4</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>MakeMyTrip</code>&nbsp;<code>Ola Cabs</code>&nbsp;<code>SAP Labs</code>&nbsp;<code>Linkedin</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Strings</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>palindrome</code>&nbsp;<code>STL</code>&nbsp;
