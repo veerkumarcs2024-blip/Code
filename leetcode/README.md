@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0500-keyboard-row) |
 | [1205-defanging-an-ip-address](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1651-shuffle-string) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1960-check-if-the-sentence-is-pangram) |
 | [2365-percentage-of-letter-in-string](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/2365-percentage-of-letter-in-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1823-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
 | ------- |
