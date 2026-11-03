@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0500-keyboard-row) |
 | [1651-shuffle-string](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1651-shuffle-string) |
+| [1894-merge-strings-alternately](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1960-check-if-the-sentence-is-pangram) |
 | [2365-percentage-of-letter-in-string](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/2365-percentage-of-letter-in-string) |
 ## Sliding Window
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0443-string-compression) |
+| [1894-merge-strings-alternately](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Manacher
 |  |
 | ------- |
