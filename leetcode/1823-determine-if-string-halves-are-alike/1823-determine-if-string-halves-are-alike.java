@@ -12,7 +12,7 @@ class Solution {
         }
         return vowelCount==0;
     }
-    private boolean isVowel(char c){
+    public boolean isVowel(char c){
         return "aeiouAEIOU".indexOf(c)!=-1;
     }
 }
