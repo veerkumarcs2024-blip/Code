@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0498-diagonal-traverse) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0048-rotate-image) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
+| [0415-add-strings](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0179-largest-number) |
 | [0383-ransom-note](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0383-ransom-note) |
+| [0415-add-strings](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0415-add-strings) |
 | [0443-string-compression](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0500-keyboard-row) |
