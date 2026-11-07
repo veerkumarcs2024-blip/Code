@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1791-richest-customer-wealth) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/2283-sort-even-and-odd-indices-independently) |
+| [3227-find-missing-and-repeated-values](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0500-keyboard-row) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1960-check-if-the-sentence-is-pangram) |
+| [3227-find-missing-and-repeated-values](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0048-rotate-image) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0415-add-strings](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0415-add-strings) |
+| [3227-find-missing-and-repeated-values](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
