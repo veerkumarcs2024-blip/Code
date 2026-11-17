@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0119-pascals-triangle-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0179-largest-number) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0498-diagonal-traverse) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0792-binary-search](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0792-binary-search) |
 ## Bit Manipulation
