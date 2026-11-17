@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0053-maximum-subarray) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0792-binary-search](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0792-binary-search) |
