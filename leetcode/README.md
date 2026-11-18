@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
 | [1539-diagonal-traverse-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1539-diagonal-traverse-ii) |
 | [1651-shuffle-string](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1677-matrix-diagonal-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0792-binary-search](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
