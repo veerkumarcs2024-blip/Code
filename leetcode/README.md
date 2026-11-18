@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0179-largest-number) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0498-diagonal-traverse) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0792-binary-search](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
