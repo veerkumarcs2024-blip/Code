@@ -1,0 +1,5 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1">Binary Search</a></h2><h3>Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18.6667px;">Given a sorted array <strong>arr[]</strong> of distinct integers and an integer <strong>k</strong>, return the 0-based index of k if it is present in the array. Otherwise, return -1.</span></p><p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18.6667px;"><strong>Input: </strong>arr[] = [1, 2, 3, 4, 6], k = 6<strong>
+Output: </strong>4<strong>
+Explanation:</strong> 6 is present at index 4.</span></pre><pre><span style="font-size: 18.6667px;"><strong>Input: </strong>arr[] = [1, 2, 4, 5, 6], k = 3<strong>
+Output: </strong>-1<strong>
+Explanation: </strong>3 is not present in the array.</span></pre></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Paytm</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Searching</code>&nbsp;<code>Binary Search</code>&nbsp;
