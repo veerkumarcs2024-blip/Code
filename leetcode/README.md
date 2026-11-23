@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0148-sort-list) |
 | [0443-string-compression](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Manacher
@@ -153,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0148-sort-list) |
 | [0179-largest-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0179-largest-number) |
 | [0268-missing-number](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0451-sort-characters-by-frequency) |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0410-split-array-largest-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/veerkumarcs2024-blip/Code/tree/master/LeetCode/0148-sort-list) |
 <!---LeetCode Topics End-->
