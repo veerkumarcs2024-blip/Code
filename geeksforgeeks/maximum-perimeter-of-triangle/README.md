@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/maximum-perimeter-of-triangle-from-array4322/1">Maximum Perimeter of Triangle</a></h2><h3>Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong> of positive integers. Find out the maximum perimeter of the triangle from the array.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [6, 1, 6, 5, 8, 4]
+<strong>Output:</strong> 20
+<strong>Explanation: </strong>Triangle formed by &nbsp;8,6 &amp; 6. Thus perimeter 20.
+</span></pre><pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [7, 55, 20, 1, 4, 33, 12]<strong>
+Output:</strong>  -1
+<strong>Explanation</strong>:As the triangle is not possible because the condition: the sum of two sides should be greater than third is not fulfilled here.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Mathematics</code>&nbsp;<code>Sorting</code>&nbsp;
