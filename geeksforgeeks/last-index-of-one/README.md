@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/last-index-of-15847/1">Last Index of One</a></h2><h3>Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p class="PDq2pG_selectionAnchorContainer" data-start="216" data-end="313"><span style="font-size: 14pt;">Given a string <strong>s </strong>consisting only of '0' and '1', find the last index at which '1' occurs. If '1' is not present in the string, return -1.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input: </strong>s = "01001"
+<strong>Output: </strong>4
+<strong>Explanation: </strong>Last index of&nbsp; 1 in given string is 4.</span>
+</pre><pre><span style="font-size: 18px;"><strong>Input:</strong> s =<strong> "</strong>0"
+<strong>Output: </strong>-1
+<strong>Explanation: </strong>Since, 1 is not present, so output is -1.</span></pre></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>InMobi</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Searching</code>&nbsp;<code>Strings</code>&nbsp;
